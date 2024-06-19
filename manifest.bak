@@ -7,15 +7,18 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-  <null name="requires"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="ApiClient">1.0</value>
+    <value name="OriginKMAT_Jun2024">1.0</value>
+  </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">3</value>
+  <value name="build">7</value>
   <null name="description"/>
   <value name="created_date">19-06-2024 05:33:59 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-06-19T05:34:01.644997597Z</value>
+  <value name="lastUpdated">2024-06-19T07:57:16.078255117Z</value>
 </Values>
