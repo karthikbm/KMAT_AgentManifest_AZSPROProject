@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/karthikbm/KMAT_AgentManifest_AZSPROProject
   gitUsername: karthikbm
   gitBranch: main
+- name: ApiClient
+  gitServerName: Karthik
+  gitUrl: https://github.com/karthikbm
+  gitUsername: karthikbm
+  gitBranch: main
