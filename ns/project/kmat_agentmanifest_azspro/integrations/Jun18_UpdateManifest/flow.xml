@@ -220,7 +220,7 @@
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
-  <value name="xml">9125a4b9f970484ba63f932643555714</value>
+  <value name="xml">b679b53cd99d4abd99efcd264174935e</value>
 </Values>
 </DATA>
 </MAPSET>
@@ -265,7 +265,7 @@
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
-  <value name="xml">true</value>
+  <value name="xml"></value>
 </Values>
 </DATA>
 </MAPSET>
