@@ -66,3 +66,7 @@ services:
     version: "1.0"
   - name: WmSalesforceProvider
     version: 10.7.0.0.29
+- serviceName: pub.date:dateTimeBuild
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.1052
